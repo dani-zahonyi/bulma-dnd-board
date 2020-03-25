@@ -1,0 +1,7 @@
+@media screen and (min-width: 768px) {
+  .collapsed-board-title {
+    height: 100%;
+    writing-mode: vertical-rl;
+    width: 55px;
+  }
+}
